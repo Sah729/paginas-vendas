@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descubra como alcançar o sucesso no mundo do empreendedorismo. Aprenda estratégias comprovadas para transformar suas ideias em negócios lucrativos!">
+    <title>Empreenda Agora - Transforme sua Vida</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .cta {
+            background: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta h2 {
+            margin: 0;
+        }
+        .cta button {
+            background: #4CAF50;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1.2em;
+        }
+        .cta button:hover {
+            background: #45a049;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        .feature {
+            flex: 1;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin: 10px;
+            background: #fff;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Empreenda Agora</h1>
+        <p>Transforme suas ideias em negócios de sucesso!</p>
+    </header>
+
+    <div class="container">
+        <section class="cta">
+            <h2>Está pronto para começar sua jornada empreendedora?</h2>
+            <p>Descubra as estratégias que milhares de empreendedores estão usando para alcançar o sucesso financeiro.</p>
+            <button>Quero saber mais!</button>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <h3>Estratégias Comprovadas</h3>
+                <p>Acesse métodos testados e validados para iniciar e escalar seu negócio.</p>
+            </div>
+            <div class="feature">
+                <h3>Suporte Exclusivo</h3>
+                <p>Receba orientação personalizada para superar desafios e alcançar seus objetivos.</p>
+            </div>
+            <div class="feature">
+                <h3>Comunidade de Sucesso</h3>
+                <p>Conecte-se com outros empreendedores e troque experiências valiosas.</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Empreenda Agora. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
